@@ -1,0 +1,87 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color:royalblue;
+    color:lavender;
+    padding:5px;
+}
+
+header a {
+    color:indigo;
+    text-decoration: none;
+    font-family: Georgia, Times, serif;
+}
+
+nav{
+    background-color:deepskyblue;
+    font-family: georgia, Times, serif;
+    padding:5px;
+    color:indigo;
+}
+
+h1{
+    text-align:center;
+    color:indigo;
+    border: 10px double blueviolet;
+    border-radius: 20px;
+}
+
+footer{
+    background-color: royalblue;
+}
+
+footer a{
+    color: lightsteelblue;
+    text-decoration: none;
+}
+
+.one{
+    background-color:white;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.two{
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.three{
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.four{
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.five{
+    background-color: steelblue;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.six{
+    background-color: cornflowerblue;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.seven{
+    background-color: deepskyblue;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.eight{
+    background-color: skyblue;
+    padding: 5px;
+    border-radius: 20px;
+}
+
